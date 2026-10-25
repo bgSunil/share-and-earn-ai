@@ -12,6 +12,12 @@ A customer scans a QR code at a business, rates the visit, and can recommend the
 
 Stack: React, TypeScript, Firebase (Firestore, Cloud Functions on Node 22), WhatsApp deep links.
 
+## Teaser
+
+[![Share & Earn teaser](assets/teaser.jpg)](assets/teaser.mp4)
+
+A 20 second teaser of the product, made from its public landing page. The dashboard numbers are sample content. It does not show the AI features, which are planned.
+
 ## What Meta's models add
 
 ### 1. Say it in your own words (planned)
