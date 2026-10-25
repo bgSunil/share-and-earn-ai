@@ -1,6 +1,6 @@
 # Share & Earn AI
 
-AI features for **Share & Earn Lite**, a referral platform that helps neighbourhood businesses grow through trusted, personal word of mouth. This repository holds the Llama integration built for the Meta Global AI Developer Hackathon (Theme 1, Build for your world).
+AI features for **Share & Earn Lite**, a referral platform that helps neighbourhood businesses grow through trusted, personal word of mouth. This repository holds the Meta AI integration built for the Meta Global AI Developer Hackathon (Theme 1, Build for your world).
 
 The main product is a private codebase. This repo shows the AI layer, its prompts, its privacy design, and how it plugs in.
 
@@ -12,7 +12,7 @@ A customer scans a QR code at a business, rates the visit, and can recommend the
 
 Stack: React, TypeScript, Firebase (Firestore, Cloud Functions on Node 22), WhatsApp deep links.
 
-## What Llama adds
+## What Meta's models add
 
 ### 1. Say it in your own words (planned)
 Many happy customers want to recommend a place but freeze at the blank message box. One tap drafts three short, personal messages from what the customer said about their visit, in their chosen language. They pick one, edit it, and send it themselves.
