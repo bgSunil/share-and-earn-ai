@@ -18,6 +18,16 @@ Stack: React, TypeScript, Firebase (Firestore, Cloud Functions on Node 22), What
 
 A 20 second teaser of the product, made from its public landing page. The dashboard numbers are sample content. It does not show the AI features, which are planned.
 
+## Product walkthroughs
+
+Five 20 second walkthroughs of the current staging app. They use sample data and test accounts, and they do not show the AI features, which are planned.
+
+1. [First visit via QR](https://github.com/bgSunil/share-and-earn-ai/releases/download/walkthroughs-v1/01-first-visit.mp4)
+2. [Private feedback](https://github.com/bgSunil/share-and-earn-ai/releases/download/walkthroughs-v1/02-private-feedback.mp4)
+3. [A friend's recommendation](https://github.com/bgSunil/share-and-earn-ai/releases/download/walkthroughs-v1/03-friend-recommendation.mp4)
+4. [Earn and redeem](https://github.com/bgSunil/share-and-earn-ai/releases/download/walkthroughs-v1/04-earn-and-redeem.mp4)
+5. [Returning customer](https://github.com/bgSunil/share-and-earn-ai/releases/download/walkthroughs-v1/05-returning-customer.mp4)
+
 ## What Meta's models add
 
 ### 1. Say it in your own words (planned)
