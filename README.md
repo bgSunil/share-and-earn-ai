@@ -4,7 +4,7 @@ AI features for **Share & Earn Lite**, a referral platform that helps neighbourh
 
 The main product is a private codebase. This repo shows the AI layer, its prompts, its privacy design, and how it plugs in.
 
-> Status: in progress. Sections marked *planned* are not built yet.
+> Status: planned. The AI features are designed but not yet built. Sections marked *planned* describe the intended build.
 
 ## The product in one minute
 
