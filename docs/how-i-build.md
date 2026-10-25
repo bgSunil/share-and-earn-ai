@@ -39,4 +39,4 @@ I am the product owner and reviewer. I make the product decisions, approve every
 - Anything important should be enforced by a check, not left to memory.
 - A person still needs to read the plan before the work starts.
 
-These are the same ideas behind the Llama features: the AI drafts, and a person decides.
+These are the same ideas behind the planned Meta AI features: the AI drafts, and a person decides.
