@@ -29,21 +29,12 @@ Owners of small shops rarely have time or support staff to answer unhappy custom
 - **Fails safe.** If the model is slow or unavailable, the app behaves exactly as it did before.
 - **Checked output.** Model responses are validated against a schema, with links and phone like patterns rejected.
 
-## Architecture (planned)
+## Documentation
 
-```
-App (React)  ->  aiService  ->  Cloud Function  ->  Llama API
-                                   |  auth required
-                                   |  per user daily cap
-                                   |  key in Secret Manager
-                                   |  output validation
-                                   v
-                          drafts returned to the app, user edits and sends
-```
+- [Architecture](docs/architecture.md) shows how the AI layer fits into the app.
+- [Privacy and safety](docs/privacy-and-safety.md) lists what goes to the model, what never does, and the checks on its output.
 
-## Contents
-
-Prompts, the function that calls the model, output validation, and tests will be added here as they are built.
+More will be added as the features are built.
 
 ## About
 
