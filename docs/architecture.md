@@ -17,7 +17,7 @@ The app is a React and TypeScript web app on Firebase. The AI layer is one serve
      |  1. require a signed in user
      |  2. enforce a daily limit per user
      |  3. build the prompt from an allowed list of fields
-     |  4. call the Llama API using a managed secret
+     |  4. call the Meta Model API using a managed secret
      |  5. validate and clean the response
      v
   Drafts returned to the app
