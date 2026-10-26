@@ -49,6 +49,7 @@ Owners of small shops rarely have time or support staff to answer unhappy custom
 
 - [Architecture](docs/architecture.md) shows how the AI layer fits into the app.
 - [Privacy and safety](docs/privacy-and-safety.md) lists what goes to the model, what never does, and the checks on its output.
+- [How to try it](docs/how-to-use.md) is a step by step guide to the staging app for customers, friends, and business owners.
 - [Product context](docs/product-context.md) explains the app and the choices behind it.
 - [How I build](docs/how-i-build.md) summarizes the AI assisted workflow behind the product.
 
