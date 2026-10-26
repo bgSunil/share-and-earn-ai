@@ -2,7 +2,7 @@
 
 AI features for **Share & Earn Lite**, a referral platform that helps neighbourhood businesses grow through trusted, personal word of mouth. This repository holds the Meta AI integration built for the Meta Global AI Developer Hackathon (Theme 1, Build for your world).
 
-The main product is a private codebase. This repo shows the AI layer, its prompts, its privacy design, and how it plugs in.
+The main product is a private codebase. This repo covers the AI layer for the hackathon, its privacy design, and how it plugs in. It is not the full product.
 
 > Status: planned. The AI features are designed but not yet built. Sections marked *planned* describe the intended build.
 
@@ -49,6 +49,8 @@ Owners of small shops rarely have time or support staff to answer unhappy custom
 
 - [Architecture](docs/architecture.md) shows how the AI layer fits into the app.
 - [Privacy and safety](docs/privacy-and-safety.md) lists what goes to the model, what never does, and the checks on its output.
+- [Product context](docs/product-context.md) explains the app and the choices behind it.
+- [How I build](docs/how-i-build.md) summarizes the AI assisted workflow behind the product.
 
 More will be added as the features are built.
 
